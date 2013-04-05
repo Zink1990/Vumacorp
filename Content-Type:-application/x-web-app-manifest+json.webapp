@@ -5,12 +5,13 @@
 	"launch_path": "Content-Type:-application/x-web-app-manifest+json.webapp",
 	"orientation": ["portrait", "landscape"],
 	"icons": {
-		"16": "icon_16.png",
+		"16": "/icon_16.png",
 		"32": "/icon_32.png",
-		"128": "icon_128.png"
+		"128": "/icon_128.png"
 	},
 	"developer": {
 		"name": "ING Studios",
+	"app:" {
 		"url":  "Content-Type:-application/x-web-app-manifest+json.webapp"
 	"default_locale": "en",
 	"fullscreen": "true",
