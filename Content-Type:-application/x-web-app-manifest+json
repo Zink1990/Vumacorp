@@ -1,19 +1,19 @@
-{
+{https://github.com/Zink1990/Vumacorp/tree/master/Content-Type:-application
 	"name": "Vuma_Corp",
 	"description": "Vuma Corp. was created in a month for the \"Got Game?\" Competition.",
 	"version": "1.0",
-	"launch_path": "/https://raw.github.com/Zink1990/Vumacorp/master/Content-Type:-application/x-web-app-manifest+json.webapp/",
+	"launch_path": "https://raw.github.com/Zink1990/Vumacorp/master/Content-Type:application/x-web-app-manifest+json.webapp",
 	"orientation": ["portrait", "landscape"],
 	"icons": {
-		"16": "/https://raw.github.com/Zink1990/Vumacorp/master/Content-Type:-application/x-web-app-manifest+json.webapp/icon_16.png",
-		"32": "/https://raw.github.com/Zink1990/Vumacorp/master/Content-Type:-application/x-web-app-manifest+json.webapp/icon_32.png",
-		"128": "/https://raw.github.com/Zink1990/Vumacorp/master/Content-Type:-application/x-web-app-manifest+json.webapp/icon_128.png"
+		"16": "/icon_16.png",
+		"32": "/icon_32.png",
+		"128": "/icon_128.png"
 	},
 	"developer": {
 		"name": "ING Studios",
-		"url": "https://github.com/Zink1990/Vumacorp/edit/master/Content-Type:application/x-web-app-manifest+json"
-	},
+	"app:" {
+		"url":  "https://raw.github.com/Zink1990/Vumacorp/master/Content-Type:application/x-web-app-manifest+json.webapp"
 	"default_locale": "en",
 	"fullscreen": "true",
-	"appcache_path": "/https://raw.github.com/Zink1990/Vumacorp/master/Content-Type:-application/x-web-app-manifest+json.webapp/offline.appcache"
+	"appcache_path": "/https://raw.github.com/Zink1990/Vumacorp/master/Content-Type:application/x-web-app-manifest+json.webapp/offline.appcache"
 }
