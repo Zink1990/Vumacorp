@@ -1,1 +1,18 @@
-k
+{
+  "name": "Vuma_Corp",
+	"description": "Vuma Corp. was created in a month for the \"Got Game?\" Competition.",
+	"version": "1.0",
+	"launch_path": "/vumacorp/",
+	"orientation": ["portrait", "landscape"],
+	"icons": {
+		"16": "/vumacorp/icon_16.png",
+		"32": "/vumacorp/icon_32.png",
+		"128": "/vumacorp/icon_128.png"
+	},
+	"developer": {
+		"name": "ING Studios",
+		"url":"https://github.com/Zink1990/Vumacorp/blob/master/Content-Type:-application/x-web-app-manifest+json"
+	},
+	"default_locale": "en",
+	"fullscreen": "true",
+}
