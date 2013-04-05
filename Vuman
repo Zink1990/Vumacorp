@@ -1,4 +1,3 @@
-
   "name": "Vuma_Corp",
 	"description": "Vuma Corp. was created in a month for the \"Got Game?\" Competition.",
 	"version": "1.0",
@@ -16,4 +15,5 @@
 	"default_locale": "en",
 	"fullscreen": "true",
 	"appcache_path": "/games/vumacorp/offline.appcache"
+	manifest.webapp.
 }
