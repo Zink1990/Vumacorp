@@ -15,5 +15,5 @@
 		"url":  "https://raw.github.com/Zink1990/Vumacorp/master/Content-Type:application/x-web-app-manifest+json.webapp"
 	"default_locale": "en",
 	"fullscreen": "true",
-	"appcache_path": "/https://raw.github.com/Zink1990/Vumacorp/master/Content-Type: application/x-web-app-manifest+json.webapp/offline.appcache"
+	"appcache_path": "/https://raw.github.com/Zink1990/Vumacorp/master/Content-Type:application/x-web-app-manifest+json.webapp/offline.appcache"
 }
