@@ -2,7 +2,7 @@
 	"name": "Vuma_Corp",
 	"description": "Vuma Corp. was created in a month for the \"Got Game?\" Competition.",
 	"version": "1.0",
-	"launch_path": "https://raw.github.com/Zink1990/Vumacorp/master/Content-Type:application/x-web-app-manifest+json.webapp",
+	"launch_path": "/",
 	"orientation": ["portrait", "landscape"],
 	"icons": {
 		"16": "/icon_16.png",
